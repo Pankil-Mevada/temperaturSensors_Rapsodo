@@ -1,2 +1,2 @@
 # temperaturSensors_Rapsodo
-rapsodo temprateu assignment
+temperature data processor that fuses readings from four high-frequency sensors using two fusion algorithms.
